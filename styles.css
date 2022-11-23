@@ -1,0 +1,38 @@
+.titulo{
+    background-color: rgba(189, 189, 189, 0.185);
+    text-align: center;
+}
+.subtitulo{
+    background-color: rgba(245, 245, 220, 0.179);
+}
+
+.nuevaTarea{
+    margin-top: 3vh;
+    text-align: left;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    max-width: 50%;
+    margin-left: 20%;
+}
+.checkeo{
+    position: absolute;
+    right: 31.5%;
+    
+}
+.input2{
+    margin-right: 20px;
+}
+
+.container{
+    text-align: center
+}
+.content{
+    margin-left: 30vw;
+}
+.tarearoja{
+    color: red
+}
+body{
+    background-image: url(https://fondosmil.com/fondo/548.jpg);
+    background-size: cover;
+}
